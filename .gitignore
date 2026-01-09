@@ -1,0 +1,14 @@
+# Editor / IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environments
+.env
+venv/
+anaconda_projects/
+
